@@ -22,3 +22,9 @@ Canlı Duygu Tespiti:
 python src/realtime_inference.py --model_path models/model.h5
 
 
+## Dataset
+
+This project uses the FER2013 dataset, which is publicly available on Kaggle:  
+https://www.kaggle.com/datasets/msambare/fer2013
+
+Note: The dataset is not included in this repository due to its large size. Please download it manually from Kaggle.
