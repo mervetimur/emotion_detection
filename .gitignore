@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.h5
+*.pth
+.DS_Store
+Thumbs.db
+data/fer2013.csv
+data/fer2013.csv
+data/
